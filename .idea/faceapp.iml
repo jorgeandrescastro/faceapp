@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psy/psysh/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psy/psysh/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/robmorgan/phinx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/cakephp/debug_kit/src" isTestSource="false" packagePrefix="DebugKit" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/robmorgan/phinx/tests" isTestSource="true" packagePrefix="Test" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="App" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/mobiledetect/mobiledetectlib/namespaced" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-color/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-highlighter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/cakephp/bake/src" isTestSource="false" packagePrefix="Bake" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/cakephp/migrations/src" isTestSource="false" packagePrefix="Migrations" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/cakephp/cakephp/src" isTestSource="false" packagePrefix="Cake" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/aura/installer-default/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/aura/intl/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/aura/intl/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
